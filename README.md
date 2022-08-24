@@ -1,7 +1,10 @@
-# home-view
-For the UIST Poster, HomeView: Automatically Building Smart Home Digital Twins With Augmented Reality Headsets.
+HomeView: Automatically Building Smart Home Digital Twins With Augmented Reality Headsets
+=========================================================================================
+Zhuoyue Lyu, Jackie Yang, Monica Lam, James Landay
+--------------------------------------------------
 
-- https://github.com/StanfordHCI/augmented-home-assistant-baseline
+Machine learning model:
+https://github.com/StanfordHCI/homeview-ml
 
-
-- https://github.com/StanfordHCI/augmented-home-assistant-app
+UI to the system:
+https://github.com/StanfordHCI/homeview-app
